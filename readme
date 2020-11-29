@@ -5,6 +5,7 @@ This library contains no methods, it is simply a mapping of codes for use with I
 Currently there are mappings for two types of IR RGB LED Remotes 
 Type 0: APA 1616 24 Button Remote
 Type 1: LED 618 24 Button Remote
+Type 2: 44 Button remote (Does not seem to have separate on/off buttons only a single toggle button).
 
 More will be added as the remotes are acquired. 
 
